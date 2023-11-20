@@ -137,7 +137,7 @@ include("includes/main.php");
           </div>
 
           <div class="developer">
-            Developed by Yasser Dalouzi
+            Developed by kushanesala
           </div>
 
           <div class="designby">
