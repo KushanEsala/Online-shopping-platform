@@ -77,9 +77,9 @@ $row = mysqli_fetch_assoc($run_total_earnings);
 $count_total_earnings = $row['Total'];
 
 
-$get_coupons = "SELECT * FROM coupons";
-$run_coupons = mysqli_query($con,$get_coupons);
-$count_coupons = mysqli_num_rows($run_coupons);
+// $get_coupons = "SELECT * FROM coupons";
+// $run_coupons = mysqli_query($con,$get_coupons);
+// $count_coupons = mysqli_num_rows($run_coupons);
 
 
 ?>
