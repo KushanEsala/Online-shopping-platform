@@ -274,27 +274,6 @@ if($status == "product"){
 
 </div><!-- form-group Ends -->
 
-<div class="form-group" ><!-- form-group Starts -->
-
-<label class="col-md-5 control-label" >Product Size</label>
-
-<div class="col-md-7" ><!-- col-md-7 Starts -->
-
-<select name="product_size" class="form-control" >
-
-<option>Select a Size</option>
-<option>Small</option>
-<option>Medium</option>
-<option>Large</option>
-
-
-</select>
-
-</div><!-- col-md-7 Ends -->
-
-
-</div><!-- form-group Ends -->
-
 <?php }else { ?>
 
 

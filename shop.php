@@ -245,41 +245,7 @@ sPath = sPath + 'p_cat[]=' + aKeys[i]+'&';
 
 // Products Categories Code ENDS
 
-   // Categories Code Starts
 
-var aInputs = Array();
-
-var aInputs = $('li').find('.get_cat');
-
-var aKeys  = Array();
-
-var aValues = Array();
-
-iKey = 0;
-
-    $.each(aInputs,function(key,oInput){
-
-    if(oInput.checked){
-
-    aKeys[iKey] =  oInput.value
-
-};
-
-    iKey++;
-
-});
-
-if(aKeys.length>0){
-
-    for(var i = 0; i < aKeys.length; i++){
-
-    sPath = sPath + 'cat[]=' + aKeys[i]+'&';
-
-}
-
-}
-
-   // Categories Code ENDS
 
    // Loader Code Starts
 
