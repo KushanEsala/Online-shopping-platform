@@ -107,4 +107,4 @@ $i++;
 
 </table><!-- table table-bordered table-hover Ends -->
 
-</div><!-- table-responsive Ends -->
+</div>table-responsive Ends

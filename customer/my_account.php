@@ -156,17 +156,17 @@ include("delete_account.php");
 
 }
 
-if(isset($_GET['my_wishlist'])){
+// if(isset($_GET['my_wishlist'])){
 
-include("my_wishlist.php");
+// include("my_wishlist.php");
 
-}
+// }
 
-if(isset($_GET['delete_wishlist'])){
+// if(isset($_GET['delete_wishlist'])){
 
-include("delete_wishlist.php");
+// include("delete_wishlist.php");
 
-}
+// }
 
 ?>
 
