@@ -43,19 +43,19 @@ if (isset($_REQUEST['p_cat']) && is_array($_REQUEST['p_cat'])) {
 
 /// Categories Code Starts ///
 
-if (isset($_REQUEST['cat']) && is_array($_REQUEST['cat'])) {
+// if (isset($_REQUEST['cat']) && is_array($_REQUEST['cat'])) {
 
-    foreach ($_REQUEST['cat'] as $sKey => $sVal) {
+//     foreach ($_REQUEST['cat'] as $sKey => $sVal) {
 
-        if ((int) $sVal != 0) {
+//         if ((int) $sVal != 0) {
 
-            $aCat[(int) $sVal] = (int) $sVal;
+//             $aCat[(int) $sVal] = (int) $sVal;
 
-        }
+//         }
 
-    }
+//     }
 
-}
+// }
 
 /// Categories Code Ends ///
 

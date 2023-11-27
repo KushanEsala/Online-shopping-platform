@@ -52,7 +52,7 @@ if(!empty($customer_confirm_code)){
 
 ?>
 
-<div class="alert alert-danger"><!-- alert alert-danger Starts -->
+<!-- <div class="alert alert-danger">
 
 <strong> Warning! </strong> Please Confirm Your Email and if you have not received your confirmation email
 
@@ -60,9 +60,9 @@ if(!empty($customer_confirm_code)){
 
 Send Email Again
 
-</a>
+</a>-->
 
-</div><!-- alert alert-danger Ends -->
+<!-- </div>alert alert-danger Ends --> 
 
 <?php } ?>
 

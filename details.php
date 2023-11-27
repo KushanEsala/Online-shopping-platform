@@ -276,12 +276,12 @@ if($status == "product"){
 
 <?php }else { ?>
 
-
-<div class="form-group"><!-- form-group Starts -->
+<!-- 
+<div class="form-group">
 
 <label class="col-md-5 control-label" >Bundle Quantity </label>
 
-<div class="col-md-7" ><!-- col-md-7 Starts -->
+<div class="col-md-7" >
 
 <select name="product_qty" class="form-control" >
 
@@ -295,9 +295,9 @@ if($status == "product"){
 
 </select>
 
-</div><!-- col-md-7 Ends -->
+</div> 
 
-</div><!-- form-group Ends -->
+</div>form-group Ends -->
 
 <div class="form-group" ><!-- form-group Starts -->
 

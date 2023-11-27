@@ -135,7 +135,7 @@ include("includes/main.php");
 
                       <td>
 
-                        $
+                        Rs
                         <?php echo $only_price; ?>.00
 
                       </td>
@@ -152,7 +152,7 @@ include("includes/main.php");
 
                       <td>
 
-                        $
+                        Rs
                         <?php echo $sub_total; ?>.00
 
                       </td>
@@ -170,7 +170,7 @@ include("includes/main.php");
 
                   <th colspan="5"> Total </th>
 
-                  <th colspan="2"> $
+                  <th colspan="2"> Rs
                     <?php echo $total; ?>.00
                   </th>
 
